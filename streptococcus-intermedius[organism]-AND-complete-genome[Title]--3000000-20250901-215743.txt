@@ -1,0 +1,2 @@
+# streptococcus intermedius[organism] AND complete genome[Title]  (NIH-7.2.33)
+2364888.14, 2377520.46, 2420549.73, 2441024.31, 2454496.83, 2454792.64, 2479636.75, 2487180.14

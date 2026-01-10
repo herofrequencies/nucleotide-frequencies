@@ -1,0 +1,2 @@
+# necator americanus[organism] AND whole genome[Title] NOT scaffold[Title] AND 6000:50000000[SLEN]  (NIH-7.2.33)
+28245.53

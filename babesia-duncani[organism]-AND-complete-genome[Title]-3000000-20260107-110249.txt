@@ -1,0 +1,2 @@
+# babesia duncani[organism] AND complete genome[Title] (NIH-7.2.33)
+1572930.88, 2171936.42

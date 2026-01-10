@@ -1,0 +1,3 @@
+# aspergillus terreus[organism] AND ATCC[Title] AND whole genome[Title]  (NIH-7.2.33)
+15672.58, 16120.57, 16505.21, 17026.65, 17432.98, 17680.38, 18107.54, 20388.18, 20602.98, 23504.02, 
+26012.51, 29866.29

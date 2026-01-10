@@ -1,0 +1,2 @@
+# aspergillus fumigatus[organism] AND complete genome[Title] (NIH-7.2.33)
+18238.00, 18239.72, 18246.04, 18668.80, 18873.15, 18875.61

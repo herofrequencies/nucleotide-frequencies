@@ -1,0 +1,2 @@
+# Fusarium verticillioides[organism] AND complete genome[Title] (NIH-7.2.33)
+10776.43, 10777.63, 10779.04, 12190.01

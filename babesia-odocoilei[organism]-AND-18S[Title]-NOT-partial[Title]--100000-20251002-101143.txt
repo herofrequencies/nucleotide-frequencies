@@ -1,0 +1,2 @@
+# babesia odocoilei[organism] AND 18S[Title] NOT partial[Title]  (NIH-7.2.33)
+83863.65, 84058.34

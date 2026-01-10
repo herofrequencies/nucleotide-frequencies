@@ -1,0 +1,2 @@
+# malassezia globosa[organism] AND whole genome[Title] AND 500000:6000000[SLEN] (NIH-7.2.33)
+17236.96, 17800.22, 18308.51, 21396.63, 24216.20, 26366.23, 28320.97, 29288.33

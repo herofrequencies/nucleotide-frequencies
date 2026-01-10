@@ -1,0 +1,3 @@
+# penicillium[organism] AND complete genome[Title] AND mitochondrion[Title]  (NIH-7.2.33)
+10127.79, 10195.17, 10235.15, 10274.73, 10356.28, 10519.12, 10548.23, 10838.73, 11361.20, 19370.41, 
+19548.85, 19992.07

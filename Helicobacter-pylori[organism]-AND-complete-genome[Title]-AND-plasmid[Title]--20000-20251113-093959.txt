@@ -1,0 +1,3 @@
+# Helicobacter pylori[organism] AND complete genome[Title] AND plasmid[Title]  (NIH-7.2.33)
+10967.18, 11285.07, 11642.49, 12067.37, 13730.80, 13967.84, 14742.72, 15865.10, 15908.67, 17416.13, 
+

@@ -1,0 +1,2 @@
+# borrelia mayonii[organism] NOT plasmid[Title] AND complete genome[Title]  (NIH-7.2.33)
+10249.24

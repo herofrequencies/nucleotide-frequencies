@@ -1,0 +1,3 @@
+# entamoeba histolytica[organism] AND complete sequence[Title] NOT chromosome[Title] NOT plasmid[Title] (NIH-7.2.33)
+509.69, 539.84, 547.15, 561.26, 581.45, 607.68, 642.90, 781.43, 792.93, 820.23, 
+853.97, 888.15, 938.62, 954.05, 995.17

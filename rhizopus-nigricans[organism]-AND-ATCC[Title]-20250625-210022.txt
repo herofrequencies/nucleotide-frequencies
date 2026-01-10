@@ -1,0 +1,2 @@
+# rhizopus nigricans[organism] AND ATCC[Title] (NIH-7.2.33)
+18664.64, 20596.93, 20691.09, 25571.62, 29679.84

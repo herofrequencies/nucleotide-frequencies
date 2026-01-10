@@ -1,0 +1,2 @@
+# fusarium sambucinum[organism] AND 1000000:15000000[SLEN]  (NIH-7.2.33)
+15562.19, 17839.71, 18007.22, 24126.86

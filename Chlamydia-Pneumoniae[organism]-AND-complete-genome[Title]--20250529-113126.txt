@@ -1,0 +1,2 @@
+# Chlamydia Pneumoniae[organism] AND complete genome[Title]  (NIH-7.2.33)
+15046.88, 15049.68, 15069.72, 15074.34, 15122.51, 29877.39

@@ -1,0 +1,2 @@
+# Enterobius vermicularis[organism] AND complete sequence[Title] (NIH-7.2.33)
+21604.66, 21918.53, 22975.51, 25268.25

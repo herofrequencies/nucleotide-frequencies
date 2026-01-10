@@ -1,0 +1,2 @@
+# babesia odocoilei[organism] AND mitochondrial[Title]  (NIH-7.2.33)
+1845000.33, 2319640.06, 2499806.28

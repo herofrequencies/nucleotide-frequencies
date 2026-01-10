@@ -1,0 +1,3 @@
+# echinococcus granulosus[organism] AND mitochondrial[Title] AND 1000:999999[SLEN] (NIH-7.2.33)
+29330.20, 30287.02, 30723.91, 31066.61, 34483.93, 34782.07, 40740.51, 42566.50, 43104.92, 43259.42, 
+44454.43

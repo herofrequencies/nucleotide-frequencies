@@ -1,0 +1,3 @@
+# aspergillus flavus[organism] AND whole genome[Title] AND ATCC[Title]  (NIH-7.2.33)
+15184.08, 15500.06, 16221.80, 18341.59, 18518.68, 19202.90, 23016.63, 23453.06, 24571.78, 26292.29, 
+29005.71

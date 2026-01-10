@@ -1,0 +1,2 @@
+# staphylococcus aureus[Title] AND complete genome[Title] AND ATCC[Title] (NIH-7.2.33)
+25648.65, 25813.62, 25813.64, 25813.71, 25813.73, 25813.77, 25869.08

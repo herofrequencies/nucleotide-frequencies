@@ -1,0 +1,2 @@
+# Anaplasma phagocytophilum[organism] AND complete genome[Title]  (NIH-7.2.33)
+11850.13, 11997.54, 12219.03, 12512.55, 12546.56, 12600.28, 12791.07

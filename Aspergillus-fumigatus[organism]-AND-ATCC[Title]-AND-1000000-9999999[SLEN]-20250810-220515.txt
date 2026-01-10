@@ -1,0 +1,2 @@
+# Aspergillus fumigatus[organism] AND ATCC[Title] AND 1000000:9999999[SLEN] (NIH-7.2.33)
+28439.75

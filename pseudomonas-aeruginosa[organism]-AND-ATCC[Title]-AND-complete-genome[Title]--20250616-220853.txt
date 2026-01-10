@@ -1,0 +1,2 @@
+# pseudomonas aeruginosa[organism] AND ATCC[Title] AND complete genome[Title]  (NIH-7.2.33)
+21684.05, 21704.91, 21722.24, 23239.93, 23630.26, 23695.70

@@ -1,0 +1,2 @@
+# echinococcus granulosus[organism] AND complete genome[Title] (NIH-7.2.33)
+2097715.79, 2705372.25, 2724256.18, 2725057.08, 2725257.38, 2728666.96, 2730475.49

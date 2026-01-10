@@ -1,0 +1,2 @@
+# chlamydia pneumoniae[organism] AND complete genome[Title]  (NIH-7.2.33)
+933.64, 940.40, 940.57, 941.82, 942.11, 945.12

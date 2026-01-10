@@ -1,0 +1,2 @@
+# babesia odocoilei[organism] AND 18s[Title] AND complete sequence[Title]  (NIH-7.2.33)
+2685286.40, 2691524.00

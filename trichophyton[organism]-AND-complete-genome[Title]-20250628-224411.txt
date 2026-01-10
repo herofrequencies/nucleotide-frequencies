@@ -1,0 +1,2 @@
+# trichophyton[organism] AND complete genome[Title] (NIH-7.2.33)
+21463.79, 21464.58, 21469.35, 23825.90, 23828.84, 23844.53, 23854.35, 23880.90

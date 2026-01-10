@@ -1,0 +1,2 @@
+# babesia microti[organism] AND complete genome[Title] (NIH-7.2.33)
+20216.01, 20414.60, 20990.11, 24580.68, 25981.26, 27461.61, 27464.21, 27474.63, 28427.25

@@ -1,0 +1,2 @@
+# trichuris trichiura[organism] AND complete genome[Title] (NIH-7.2.33)
+10029.26, 10029.95, 10277.64, 10278.37, 10279.83, 10287.13, 10311.30, 19965.88

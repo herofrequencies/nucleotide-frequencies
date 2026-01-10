@@ -1,0 +1,3 @@
+# echinococcus granulosus[organism] AND mitochondrial[Title] NOT UNVERIFIED[Title] (NIH-7.2.33)
+15143.51, 15361.96, 15533.30, 17241.97, 17391.03, 20370.26, 21283.25, 21552.46, 21629.71, 22227.21, 
+29330.20

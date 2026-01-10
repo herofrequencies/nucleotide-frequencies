@@ -1,0 +1,3 @@
+# helicobacter pylori[organism] AND complete genome[Title] NOT chromosome[Title]  (NIH-7.2.33)
+21684.42, 21779.06, 21831.83, 21850.47, 21854.54, 21903.69, 22037.13, 22059.61, 22124.25, 22149.64, 
+22152.08, 22227.05, 22230.72, 22230.74

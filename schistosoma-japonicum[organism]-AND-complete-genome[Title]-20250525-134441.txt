@@ -1,0 +1,2 @@
+# schistosoma japonicum[organism] AND complete genome[Title] (NIH-7.2.33)
+20556.01, 20557.47, 20558.93, 20560.39, 20561.84, 20563.30, 20564.76, 20566.22, 20569.15
