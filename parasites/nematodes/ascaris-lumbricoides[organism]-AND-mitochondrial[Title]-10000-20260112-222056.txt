@@ -1,0 +1,2 @@
+# ascaris lumbricoides[organism] AND mitochondrial[Title] (NIH-7.2.33)
+5177.03, 5780.35, 6612.15, 6806.04, 6813.72, 7184.15, 7776.66, 8428.34, 8771.35
